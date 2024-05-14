@@ -1,0 +1,8 @@
+flet==0.19.0
+flet-core==0.19.0
+flet-runtime==0.19.0
+google-auth==2.28.1
+google-auth-oauthlib==1.2.0
+gspread==6.0.2
+openpyxl==3.1.2
+pandas==2.2.0
